@@ -1,6 +1,4 @@
 # Find a Brewery
-This is a web application that helps find breweries in the United States.
-
 
 ## Project Overview
 This project creates a web application that finds breweries located in the United States.
