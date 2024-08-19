@@ -18,7 +18,7 @@ This project creates a web application that finds breweries located in the Unite
 ## Data 
 The data is a static pull from March 2024.  The data required some cleaning. 
 
-## Requirements
+## User Stories
 As a Cerevisaphile, I want to be able to locate breweries so that I can visit and try the beer.
 
 As a Cerevisaphile, I want to be able to filter on state so that I can locate the breweries in a state.
