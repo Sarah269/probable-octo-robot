@@ -3,7 +3,9 @@
 ## Project Overview
 This project creates a web application that finds breweries located in the United States.
 
-[FindaBrewery web application](https://probable-octo-robot-cm4nr6wt7yvnusynumfme2.streamlit.app/)
+* [FindaBrewery web application](https://probable-octo-robot-cm4nr6wt7yvnusynumfme2.streamlit.app/)
+
+* [Brewery Data Analysis](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
 
 ## Data Source
 [Open Brewery Public API](https://www.openbrewerydb.org/)
